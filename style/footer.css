@@ -1,0 +1,24 @@
+#footer {
+    background-color:rgb(90,60,64);
+}
+nav.footer a{
+    text-decoration:none;
+    color:inherit;
+    font-size:14px;
+    } 
+nav.footer li.icon{
+    margin-top: 10px;
+    display:inline-block;
+    background-color:rgb(90,60,64);
+    border:0px solid #000;
+    
+    }
+nav.footer li.icon:hover{
+    background-color:rgb(255,195,0);
+    color:#000;
+    }
+img.redSocial{
+
+    width: 50px;
+    height: 50px;
+}

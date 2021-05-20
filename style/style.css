@@ -1,0 +1,106 @@
+
+#logo{
+
+    height: 100px;
+    width: 100px;
+
+}
+div.footer{
+
+    background-color:rgb(90,60,64);
+   
+}
+
+div img{
+
+    margin-top: 15px;
+    height: 575px;
+
+}
+
+div p{
+    
+    background-color:rgb(90,60,64);
+    color:rgb(255,195,0); 
+}
+
+div br{
+    
+    background-color:rgb(90,60,64);
+    height: 20px;
+}
+
+
+
+li.circuloRosa{    
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: pink;
+}
+
+li.circuloBage{
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: bisque;
+}
+li.circuloRojo{
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: red;
+}
+li.circuloNegro{
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: black;
+}
+li.circuloBlanco{
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: white;
+}
+li.circuloAzul{
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: blue;
+}
+li.circuloAmarillo{
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: yellow;
+}
+li.circuloNaranja{
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: orangered;
+}
+li.circuloGray{
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: gray;
+}
+#correosCR{
+
+    height: 25%;
+    
+}
+
+#us{
+    background-color: white;
+    color:black;
+}
+
+#pago{
+
+    height: 100%;
+
+}
+
